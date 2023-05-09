@@ -1,0 +1,71 @@
+==================================================================
+Matrix: 
+453 53 32 43 
+97 53 12 0 
+184 132 239 108 
+134 86 3 5 
+31 533 867 4 
+==================================================================
+Column that has the longest series of similary numbers is - 2
+==================================================================
+Average of elements in row 1 is 145.25
+Average of elements in row 2 is 40.5
+Average of elements in row 3 is 165.75
+Average of elements in row 4 is 57
+Average of elements in row 5 is 358.75
+==================================================================
+New array: 
+184	132	239	108	134	86	3	5	31	533	867	4	
+==================================================================
+New matrix:
+453 53 32 43 
+97 53 12 0 
+134 86 3 5 
+==================================================================
+IF YOU WANNA SEE SOME ACTION
+GOTTA BE THE CENTER OF ATTRACTION
+MAKE SURE THAT THEY GOT THEIR EYES ON YOU, LIKE THE FACE THAT YOU SEE ON EVERY MAGAZINE
+ 
+BE THE FOCUS OF ATTENTION
+BE THE NAME THAT EVERY ONE MUST MENTION
+COME OUT FROM THE SHADOWS, IT'S YOUR TIME, CAUSE TONIGHT IS THE NIGHT FOR EVERYONE TO SEE
+ 
+IT'S NATURAL
+you know that this is where you gotta be, it must be your destiny
+sensational
+AND YOU BELIEVE THAT, THIS IS WHAT YOU'VE WAITED FOR AND IT'S YOU THAT THEY ALL ADORE, SO BABY
+ 
+NOW YOU FEEL LIKE NUMBER ONE
+shining bright for everyone
+living out your fantasy, the
+brightest star for all to see
+NOW YOU FEEL LIKE NUMBER ONE
+SHINING BRIGHT FOR EVERYONE
+LIVING OUT YOUR FANTASY, YOU'RE THE
+brightest star there's ever been
+ 
+feel the heat that's all around you
+flashing lights and ecstasy surround you
+EVERYBODY WANTS A PIECE OF YOU; YOU'RE THE QUEEN OF THE SCENE, LIVING IN A DREAM
+ 
+IT'S NATURAL
+YOU KNOW THAT THIS IS WHERE YOU GOTTA BE, IT MUST BE YOUR DESTINY
+sensational
+and you believe that, this is what you've waited for and it's you that they all adore
+ 
+now you feel like number one
+SHINING BRIGHT FOR EVERYONE
+LIVING OUT YOUR FANTASY, THE
+BRIGHTEST STAR FOR ALL TO SEE
+ 
+THIS IS WHAT YOU'VE WAITED FOR AND IT'S YOU THAT THEY ALL ADORE
+ 
+now you feel like number one
+SHINING BRIGHT FOR EVERYONE
+living out your fantasy, the
+BRIGHTEST STAR FOR ALL TO SEE
+now you feel like number one
+shining bright for everyone
+LIVING OUT YOUR FANTASY, YOU'RE THE
+brightest star there's ever been
+==================================================================
